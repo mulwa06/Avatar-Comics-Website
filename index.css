@@ -2,6 +2,6 @@ body{
     background-image: url(search3.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: unset;
 }
 
